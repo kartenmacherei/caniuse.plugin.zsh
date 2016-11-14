@@ -1,4 +1,4 @@
-# caniuse.plugin.zsh
+# caniuse.pluginOSX.zsh
 
 A plugin for [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) adding 
 [Can I Use...](http://caniuse.com) support to your OSX terminal.
